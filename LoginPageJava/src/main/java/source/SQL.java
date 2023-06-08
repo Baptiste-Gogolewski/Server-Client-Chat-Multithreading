@@ -8,7 +8,7 @@ public class SQL
     // Si vous voulez vous connectez à la base de données en distanciel laissez comme tel
     // si vous etes en localhost alors modifier en conséquence le Login et Password
     private String Login = "root";
-    private String Password = "Falco971#*";
+    private String Password = "123456";
 
     // Adresse de la machine ou est lancé le serveur MySQL si pour une connexion à distance sinon mettre "localhost"
     private String IpAddress = "localhost";
